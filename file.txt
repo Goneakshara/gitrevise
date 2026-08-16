@@ -6,3 +6,6 @@ This is feature branch
 
 
 practicing pr request merging with feature branch though pr
+
+
+practicing git reset
