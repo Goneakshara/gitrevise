@@ -1,8 +1,12 @@
 Hi, Welcome to git programming.
+This is feature branch
+Merging with master branch
 
 This is main branch
 
 This is feature branch
 
 
+
 practicing pr request merging with feature branch though pr
+creating pull request example
